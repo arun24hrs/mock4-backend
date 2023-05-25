@@ -1,7 +1,7 @@
 {
-  "dependencies": {
-    "json-server": "^0.17.3"
-  },
+  "name": "mock4-backend",
+  "version": "1.0.0",
+  "description": "",
   "scripts": {
     "build": "echo \"No build specified\" && exit 1",
     "test": "echo \"No test specified\" && exit 1",
@@ -11,13 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/arun24hrs/mock4-backend.git"
   },
-  "name": "be",
-  "version": "1.0.0",
-  "main": "server.js",
-  "devDependencies": {},
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "bugs": {
+    "url": "https://github.com/arun24hrs/mock4-backend/issues"
+  },
   "homepage": "https://github.com/arun24hrs/mock4-backend#readme"
 }
