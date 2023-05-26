@@ -7,6 +7,11 @@
     "test": "echo \"No test specified\" && exit 1",
     "start": "node index.js"
   },
+  {
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arun24hrs/mock4-backend.git"
