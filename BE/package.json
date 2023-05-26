@@ -1,25 +1,22 @@
 {
-  "name": "mock4-backend",
+  "name": "starter-express-api",
   "version": "1.0.0",
   "description": "",
+  "main": "index.js",
   "scripts": {
-    "build": "echo \"No build specified\" && exit 1",
-    "test": "echo \"No test specified\" && exit 1",
     "start": "node index.js"
   },
-  {
-  "dependencies": {
-    "json-server": "^0.17.3"
-  }
-},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arun24hrs/mock4-backend.git"
+    "url": "git+https://github.com/cyclic-software/starter-express-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arun24hrs/mock4-backend/issues"
+    "url": "https://github.com/cyclic-software/starter-express-api/issues"
   },
-  "homepage": "https://github.com/arun24hrs/mock4-backend#readme"
+  "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
